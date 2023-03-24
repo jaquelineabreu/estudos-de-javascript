@@ -1,6 +1,6 @@
-function imprimeTexto(texto) {
-  console.log(texto)
-}
+// function imprimeTexto(texto) {
+//   console.log(texto)
+// }
 
 imprimeTexto('Oi')
 
@@ -11,4 +11,4 @@ function soma() {
 
 //console.log(soma())
 
-imprimeTexto(soma())
+//imprimeTexto(soma())
